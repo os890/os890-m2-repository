@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sandbox890.extensions.validator.component-support-modules</groupId>
+  <artifactId>myfaces-extval-richfaces-support</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.2.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20091123185044</lastUpdated>
+  </versioning>
+</metadata>
