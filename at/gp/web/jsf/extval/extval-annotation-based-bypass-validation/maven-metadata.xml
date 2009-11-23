@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>at.gp.web.jsf.extval</groupId>
+  <artifactId>extval-annotation-based-bypass-validation</artifactId>
+  <version>1.2.2</version>
+  <versioning>
+    <versions>
+      <version>1.2.2</version>
+    </versions>
+    <lastUpdated>20091123194840</lastUpdated>
+  </versioning>
+</metadata>
