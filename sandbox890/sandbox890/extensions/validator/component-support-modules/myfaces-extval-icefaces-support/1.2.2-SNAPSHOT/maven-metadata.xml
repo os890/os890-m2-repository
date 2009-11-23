@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sandbox890.extensions.validator.component-support-modules</groupId>
+  <artifactId>myfaces-extval-icefaces-support</artifactId>
+  <version>1.2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20091123235648</lastUpdated>
+  </versioning>
+</metadata>
