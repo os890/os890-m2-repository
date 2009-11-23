@@ -9,6 +9,9 @@
   * Advanced Meta-Data
   * Continue with warnings
 
+== MyFaces ExtVal Component-Support-Modules ==
+  * RichFaces-Support
+
 = Stable Versions =
 
 == MyFaces ExtVal Add-ons ==
@@ -51,4 +54,12 @@
 
 || *groupId* || at.gp.web.jsf.extval ||
 || *artifactId* || extval-continue-with-warnings ||
+|| *versions* || 1.2.3-SNAPSHOT ||
+
+== MyFaces ExtVal Component-Support-Modules ==
+
+=== RichFaces-Support ===
+
+|| *groupId* || sandbox890.extensions.validator.component-support-modules ||
+|| *artifactId* || myfaces-extval-richfaces-support ||
 || *versions* || 1.2.3-SNAPSHOT ||
