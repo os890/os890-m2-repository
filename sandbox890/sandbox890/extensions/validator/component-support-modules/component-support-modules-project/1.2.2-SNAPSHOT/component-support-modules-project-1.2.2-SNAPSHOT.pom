@@ -31,12 +31,16 @@
     <version>1.2.2-SNAPSHOT</version>
 
     <modules>
-        <!--module>icefaces-support</module-->
-        <!--module>openfaces-support</module-->
+        <module>icefaces-support</module>
+        <module>openfaces-support</module>
         <module>richfaces-support</module>
     </modules>
 
     <repositories>
+        <repository>
+            <id>icesoft</id>
+            <url>http://anonsvn.icefaces.org/repo/maven2/releases/</url>
+        </repository>
         <repository>
             <id>jboss</id>
             <url>http://repository.jboss.com/maven2</url>
@@ -52,8 +56,8 @@
         <dependency>
             <groupId>org.apache.myfaces.extensions.validator</groupId>
             <artifactId>myfaces-extval-core</artifactId>
-            <version>1.2.3-SNAPSHOT</version>
-            <scope>compile</scope>
+            <version>(,1.2.14]</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
