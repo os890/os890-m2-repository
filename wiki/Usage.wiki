@@ -6,7 +6,7 @@
 <repositories>
   <repository>
     <id>googlecode.com</id>
-    <url>https//os890-m2-repository.googlecode.com/svn/tags/os890</url>
+    <url>http://os890-m2-repository.googlecode.com/svn/tags/os890</url>
   </repository>
 </repositories>
 }}}
@@ -16,7 +16,7 @@
 <repositories>
   <repository>
     <id>googlecode.com</id>
-    <url>https//os890-m2-repository.googlecode.com/svn/tags/sandbox890</url>
+    <url>http://os890-m2-repository.googlecode.com/svn/tags/sandbox890</url>
   </repository>
 </repositories>
 }}}
@@ -26,7 +26,7 @@
 <repositories>
   <repository>
     <id>googlecode.com</id>
-    <url>https//os890-m2-repository.googlecode.com/svn/trunk/[os890|sandbox890]</url>
+    <url>http://os890-m2-repository.googlecode.com/svn/trunk/[os890|sandbox890]</url>
   </repository>
 </repositories>
 }}}
