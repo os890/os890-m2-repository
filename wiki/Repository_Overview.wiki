@@ -1,4 +1,4 @@
-#labels overview
+#labels overview,icefaces,primefaces,richfaces,myfaces,extval,extensions-validator,add-on,add-ons
 = Overview =
 
 == MyFaces ExtVal Add-ons ==
@@ -57,6 +57,18 @@
 || *versions* || 1.2.3-SNAPSHOT ||
 
 == MyFaces ExtVal Component-Support-Modules ==
+
+=== ICEfaces-Support ===
+
+|| *groupId* || sandbox890.extensions.validator.component-support-modules ||
+|| *artifactId* || myfaces-extval-icefaces-support ||
+|| *versions* || 1.2.2-SNAPSHOT ||
+
+=== PrimeFaces-Support ===
+
+|| *groupId* || sandbox890.extensions.validator.component-support-modules ||
+|| *artifactId* || myfaces-extval-primefaces-support ||
+|| *versions* || 1.2.2-SNAPSHOT ||
 
 === RichFaces-Support ===
 
