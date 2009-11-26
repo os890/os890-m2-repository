@@ -1,6 +1,8 @@
 #labels usage,intro
 = Usage in Maven 2 projects =
 
+Details about the content of these repositories are available *[Repository_Overview here]*
+
 == Stable versions of os890 ==
 {{{
 <repositories>
