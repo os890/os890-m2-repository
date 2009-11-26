@@ -32,8 +32,9 @@
 
     <modules>
         <module>icefaces-support</module>
-        <module>openfaces-support</module>
+        <module>primefaces-support</module>
         <module>richfaces-support</module>
+        <module>openfaces-support</module>
     </modules>
 
     <repositories>
