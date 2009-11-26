@@ -1,6 +1,8 @@
 #labels overview,icefaces,primefaces,richfaces,myfaces,extval,extensions-validator,add-on,add-ons
 = Overview =
 
+Details about the usage is available *[Usage here]*
+
 == MyFaces ExtVal Add-ons ==
   * Bypass validation
   * Annotation based config
