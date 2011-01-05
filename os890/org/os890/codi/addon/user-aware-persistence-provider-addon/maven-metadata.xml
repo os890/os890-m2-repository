@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.os890.codi.addon</groupId>
+  <artifactId>user-aware-persistence-provider-addon</artifactId>
+  <versioning>
+    <release>0.9.2</release>
+    <versions>
+      <version>0.9.2</version>
+    </versions>
+    <lastUpdated>20110105091059</lastUpdated>
+  </versioning>
+</metadata>
