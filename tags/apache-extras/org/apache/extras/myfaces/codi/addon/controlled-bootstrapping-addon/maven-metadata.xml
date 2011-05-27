@@ -3,10 +3,11 @@
   <groupId>org.apache.extras.myfaces.codi.addon</groupId>
   <artifactId>controlled-bootstrapping-addon</artifactId>
   <versioning>
-    <release>0.9.3</release>
+    <release>1.0.0</release>
     <versions>
       <version>0.9.3</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20110131153313</lastUpdated>
+    <lastUpdated>20110527144406</lastUpdated>
   </versioning>
 </metadata>
