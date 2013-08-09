@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.os890.wink.addon</groupId>
+  <artifactId>wink-as7-adapter</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20130809160451</lastUpdated>
+  </versioning>
+</metadata>
